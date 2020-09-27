@@ -1,3 +1,4 @@
 Using CNN network to classify skin cancer 
 
 * using inception v3 model 
+* Using this because we have less data
